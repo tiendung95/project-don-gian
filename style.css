@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 p{
     color: white
 }
 body{
     background: black
+=======
+body{
+    background: red
+}
+.lan1{
+    color: white
+>>>>>>> c42df5e29d2e916aba76189d653a8edb8197c486
 }
